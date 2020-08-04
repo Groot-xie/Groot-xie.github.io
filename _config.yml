@@ -82,5 +82,5 @@ exclude:
   - README.md
   - CNAME
 
-  # qq空间
-  space: https://user.qzone.qq.com/775649142
+# qq空间
+space: https://user.qzone.qq.com/775649142
