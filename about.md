@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
++ 手机号
+  
+  18817558610
+  
++ 邮箱
 
-### More Information
+  18817558610@163.com
 
-A place to include any other types of information that you'd like to include about yourself.
++ 微信号
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+  vx775649142
