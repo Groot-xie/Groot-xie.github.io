@@ -246,7 +246,12 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  // border-bottom: 1px solid $lightGray;
+  > h1 {
+    background: #eee;
+    padding: 0 1rem;
+    border-radius: 8px;
+  }
 }
 
 .posts > .post:last-child {
