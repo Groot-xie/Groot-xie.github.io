@@ -38,7 +38,7 @@ nodeJs 是基于 chrome V8 引擎的 JavaScript 运行环境，nodeJs 允许 Jav
 
 + 图示
 
-  ![1571203227572](./images/1571203227572.png)
+  ![1571203227572](../images/1571203227572.png)
 
 + 命令行工具：CLI
 
