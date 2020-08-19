@@ -251,10 +251,10 @@ nav {
     background: #eee;
     padding: 0 1rem;
     border-radius: 8px;
-    &:nth-child(2n) {
+    &:nth-child(odd) {
       color: $success-color
     }
-    &:nth-child(2n - 1) {
+    &:nth-child(even) {
       color: $primary-color
     }
   }
