@@ -23,6 +23,7 @@ body {
   color: $darkGray;
   background: url('../images/bg.jpg') no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .container {
